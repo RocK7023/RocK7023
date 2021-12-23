@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Rahul
+- 🏠 from Berhampur
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Python and Javascript
+- 📫 How to reach me - rpattnaik2001@gmail.com
+- 🌐 IG - @ig_rock7023
